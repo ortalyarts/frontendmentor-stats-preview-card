@@ -23,13 +23,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](images/screenshot.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/ortalyarts/frontendmentor-stats-preview-card)
+- Live Site URL: (https://frontendmentor-stats-preview-card-nwde3rx1w-tanjas-projects.vercel.app/)
 
 ## My process
 
